@@ -1,8 +1,6 @@
 💰 FinTrackr
 FinTrackr is a smart, modern personal finance tracker built using **Flutter** and **BLoC architecture**. It allows users to manage their income and expenses, analyze their spending through charts, back up transaction history, and export data in both **PDF** and **Excel** formats — all in a beautifully designed, responsive UI.
 
-![FinTrackr Banner](assets/fintrackr_banner.png)
-
 ---
 
 ✨ Features
