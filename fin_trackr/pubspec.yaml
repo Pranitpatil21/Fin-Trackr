@@ -1,0 +1,53 @@
+name: fin_trackr
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.7.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  bloc: ^9.0.0
+  flutter_bloc: ^9.1.1
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  path_provider: ^2.1.5
+  uuid: ^4.5.1
+  intl: ^0.20.2
+  fl_chart: ^1.0.0
+  syncfusion_flutter_pdf: ^29.2.11
+  syncfusion_flutter_xlsio: ^29.2.11
+  permission_handler: ^12.0.0+1
+  open_file: ^3.5.10
+  file_picker: ^10.2.0
+  shared_preferences: ^2.5.3
+  introduction_screen: ^3.1.17
+  url_launcher: ^6.3.1
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  hive_generator: ^2.0.1
+  build_runner: ^2.5.3
+  flutter_launcher_icons: ^0.13.1
+
+flutter:
+  uses-material-design: true
+  assets:
+    - lib/assets/icon/image2.png
+    - lib/assets/icon/img1.jpg
+    - lib/assets/icon/img2.jpg
+    - lib/assets/icon/img3.jpg
+    - lib/assets/icon/img4.jpg
+    - lib/assets/icon/img5.jpg
+
+
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "lib/assets/icon/image.png"
