@@ -108,12 +108,13 @@ Make sure you have Flutter installed: Flutter Setup
   On Android (especially Android 11+), the app will request proper storage permissions before exporting to PDF/Excel.
 
 📬 Contact
+
 📧 Email: pranit.appdev@gmail.com
+
 📱 Phone: +91-8668451914
 
 📄 License
   This project is open source and available under the MIT License.
-.
 
 🚀 Future Scope
 
