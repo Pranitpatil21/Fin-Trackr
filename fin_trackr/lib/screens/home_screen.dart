@@ -14,7 +14,7 @@ import 'add_transaction_screen.dart';
 class HomeScreen extends StatelessWidget {
   final VoidCallback? onThemeToggle;
   final ThemeMode? currentThemeMode;
-
+                   
   const HomeScreen({super.key, this.onThemeToggle, this.currentThemeMode});
 
   Future<void> _handleReset(BuildContext context) async {
