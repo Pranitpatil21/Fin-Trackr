@@ -9,7 +9,7 @@ class IntroScreen extends StatelessWidget {
 
   const IntroScreen({
     super.key,
-    required this.onThemeToggle,
+    required this.onThemeToggle,   
     required this.currentThemeMode,
   });
 
