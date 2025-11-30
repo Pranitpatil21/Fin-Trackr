@@ -8,7 +8,7 @@ import '../blocs/transaction/transaction_event.dart';
 
 class AddTransactionScreen extends StatefulWidget {
   const AddTransactionScreen({super.key});
-
+      
   @override
   State<AddTransactionScreen> createState() => _AddTransactionScreenState();
 }
