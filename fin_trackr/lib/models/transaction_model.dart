@@ -1,5 +1,5 @@
 import 'package:hive/hive.dart';
-
+ 
 part 'transaction_model.g.dart';
 
 @HiveType(typeId: 0)
