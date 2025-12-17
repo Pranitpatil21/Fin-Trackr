@@ -5,7 +5,7 @@ part 'transaction_model.g.dart';
 @HiveType(typeId: 0)
 class TransactionModel {
   @HiveField(0)
-  String id;
+  String id; 
 
   @HiveField(1)
   String title;
