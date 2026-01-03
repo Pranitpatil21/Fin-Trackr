@@ -5,7 +5,7 @@ class AboutScreen extends StatelessWidget {
   const AboutScreen({super.key});
 
   void _launchEmail() async {
-    final Uri emailLaunchUri = Uri(
+    final Uri emailLaunchUri = Uri( 
       scheme: 'mailto',
       path: 'pranit.appdev@gmail.com',
       query: 'subject=FinTrackr Inquiry',
