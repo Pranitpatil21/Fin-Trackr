@@ -4,7 +4,7 @@ import 'package:hive/hive.dart';
  
 import '../blocs/transaction/transaction_bloc.dart'; 
 import '../blocs/transaction/transaction_event.dart';
-import '../blocs/transaction/transaction_state.dart';
+import '../blocs/transaction/transaction_state.dart'; 
 import '../models/transaction_model.dart';
 import '../widgets/transaction_tile.dart';
 import '../widgets/balance_card.dart';
